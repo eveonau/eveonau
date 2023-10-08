@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eveonau
 - 👀 I’m interested in Roblox. Lua, and Javascript!
-- 🌱 I’m currently learning lua and Javascript!
+- 🌱 I’m currently learning lua and python!
 - 💞️ I’m looking to collaborate on nothing at the moment!
 - 📫 How to reach me discord or roblox!!
 
